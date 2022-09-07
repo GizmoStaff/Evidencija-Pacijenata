@@ -15,7 +15,8 @@
 
 ### CLONE THE REPO
 
+```
 $ git clone https://github.com/GizmoStaff/Evidencija-Pacijenata.git
-
+```
 
 
